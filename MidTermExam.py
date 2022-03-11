@@ -1,0 +1,1 @@
+print("Hello! My name is Henry Avink and I am a 9th grader at GLHS taking CSSE\n")
